@@ -1,6 +1,6 @@
-## DATA SET
+## Data Set
 
-### [**WORLD BANK DATA **](https://data.worldbank.org/).
+### [**WORLD BANK DATA**](https://data.worldbank.org/)
 
 ### Description of Data Set
 - The World Bank data contains records of all countries' data, including financial, health, population,literacy and climate information. We can estimate several factors influencing the world's economy and health using this data.
